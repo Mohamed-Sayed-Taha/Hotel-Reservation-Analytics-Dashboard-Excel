@@ -378,7 +378,7 @@ Hotel-Reservation-Analytics-Dashboard/
 
 ## 📦 Data Source
 
-- **Platform:** [Kaggle](https://www.kaggle.com/)
+- **Platform:** [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset))
 - **File Format:** Excel (.xlsx)
 - **Raw Records:** 36,275 | **After Cleaning:** 36,238
 - **Period Covered:** 2017 – 2018
