@@ -368,8 +368,6 @@ Hotel-Reservation-Analytics-Dashboard/
 │   ├── Seasonality.png
 │   └── Schema.png
 │
-├── DAX_Measures.dax                        ← All DAX measure code
-├── PowerQuery_M_Transformations.m          ← All Power Query M code
 ├── Repository_Structure
 └── README.md
 ```
