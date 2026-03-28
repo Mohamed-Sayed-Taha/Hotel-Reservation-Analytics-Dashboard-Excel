@@ -1,0 +1,17 @@
+Hotel-Reservation-Analytics-Dashboard/
+│
+├── Hotel_Reservation_Dashboard.xlsx     ← Main Excel file (Data Model + Dashboards)
+├── Hotel_Reservations_Raw.xlsx          ← Source data from Kaggle (36,275 records)
+│
+├── screenshots/
+│   ├── Revenue_&_Pricing.png
+│   ├── Cancellation.png
+│   ├── Customer_Behaiviowr.png
+│   ├── Channels.png
+│   ├── Seasonality.png
+│   └── Schema.png
+│
+├── DAX_Measures.dax                        ← All DAX measure code
+├── PowerQuery_M_Transformations.m          ← All Power Query M code
+├── Repository_Structure
+└── README.md
