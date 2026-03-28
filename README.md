@@ -361,7 +361,7 @@ Hotel-Reservation-Analytics-Dashboard/
 ├── 📋 Hotel_Reservations_Raw.xlsx          ← Source data from Kaggle (36,275 records)
 │
 ├── screenshots/
-│   ├── Revenue___Pricing.png
+│   ├── Revenue_&_Pricing.png
 │   ├── Cancellation.png
 │   ├── Customer_Behaiviowr.png
 │   ├── Channels.png
@@ -370,6 +370,7 @@ Hotel-Reservation-Analytics-Dashboard/
 │
 ├── DAX_Measures.dax                        ← All DAX measure code
 ├── PowerQuery_M_Transformations.m          ← All Power Query M code
+├── Repository_Structure
 └── README.md
 ```
 
